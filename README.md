@@ -20,7 +20,9 @@ Simulación de Ecosistema 2D en Unity: Defensa verde.
 
 - Cómo Ejecutar la Simulación
 
-1.  Clonar (o descargar directamente) el Repositorio.
+IMPORTANTE: Debido al tamaño, la carpeta "assests" tuvo que ser comprimida en un archivo .zip, por favor descomprima el archivo antes de realizar cualquier otra acción.
+
+1.  Clonar (o descargar directamente el package) el repositorio.
 2.  Abrir en Unity:
     - Abrir Unity Hub.
     - Hacer clic en "Add Project" y seleccionar la carpeta raíz del repositorio clonado.
